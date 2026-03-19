@@ -1,6 +1,4 @@
-# LocAil
-
-![LocAil](LocAil.png)
+# <img src="LocAil.png" width="300"/>
 
 **LocAil** = **Local** + **Ail** (French for *garlic*) — a nod to the first ingredient that inspired it.
 
